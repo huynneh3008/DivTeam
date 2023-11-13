@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 065a9b94cb49b024783259ec30da81b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Members:
+  - id: 1
+    name: "Nguy\u1EC5n Thanh Huy\u1EC1n"
+    value: 2
+  - id: 2
+    name: "Ho\xE0ng Anh D\u0169ng"
+    value: 4
+  - id: 3
+    name: "L\xEA Anh Qu\xE2n"
+    value: 1
+  - id: 4
+    name: "Tr\u1ECBnh Th\u1ECB Ph\u01B0\u01A1ng"
+    value: 5
+  - id: 5
+    name: "Tr\u01B0\u01A1ng T\u1EA5n Th\xE0nh"
+    value: 3
+  - id: 6
+    name: "Ph\u1EA1m V\u0103n H\xF9ng"
+    value: 3
